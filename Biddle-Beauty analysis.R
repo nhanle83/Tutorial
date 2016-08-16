@@ -1,3 +1,5 @@
+# try it once more
+
 # load beauty data set (Hammermesh & Biddle)
 # open the project beauty.Rdata and copy/paste your command to replace the line below
 load("C:/Users/LeN/Google Drive/202/StatsData/Wooldridge/R data sets for 5e/beauty.RData")
